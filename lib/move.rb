@@ -13,8 +13,10 @@ return n
 
 end
 # code your input_to_index and move method here!
-def move()
 
 
+def move(board_array,index,character = "X")
+  board 
 
+return
 end
