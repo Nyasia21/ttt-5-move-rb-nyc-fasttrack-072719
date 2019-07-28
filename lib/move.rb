@@ -16,8 +16,8 @@ end
 # code your input_to_index and move method here!
 
 
-def move(board_array,index,character = "X")
-  board_array[index] = character
+def move(board,index,character = "X")
+  board[index] = character
 
-return board_array
+return board
 end
