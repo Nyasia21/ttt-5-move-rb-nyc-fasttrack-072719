@@ -9,8 +9,8 @@ end
 
 def input_to_index (input) 
 
-n = (input.to_i) - 1 
-return n
+index = (input.to_i) - 1 
+return index
 
 end
 # code your input_to_index and move method here!
