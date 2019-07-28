@@ -8,7 +8,7 @@ end
 
 def input_to_index (input) 
 
-n = input - 1 
+n = (input.to_i) - 1 
 return n
 
 end
